@@ -66,6 +66,7 @@ Source: https://stackoverflow.com/a/40068343
 Community with Update 5
 
 ```
+https://go.microsoft.com/fwlink/?LinkId=532496&type=ISO&clcid=0x409"
 https://download.microsoft.com/download/A/A/D/AAD1AA11-FF9A-4B3C-8601-054E89260B78/vs2013.5_ce_enu.iso?type=ISO
 ```
 
